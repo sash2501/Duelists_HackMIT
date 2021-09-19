@@ -26,4 +26,23 @@ Start MongoDB in separate terminal:
 
 - [Nodejs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [Mongo]
+- [Mongo](https://www.mongodb.com/)
+
+## Screenshots
+
+Register Page
+
+![App Screenshot](assets/Register.png)
+
+Login Page
+
+![App Screenshot](assets/Login.png)
+
+Home Page
+
+![App Screenshot](assets/HomePage.png)
+
+View Danger Zone Page
+
+![App Screenshot](assets/ViewDangerZones.png)
+
