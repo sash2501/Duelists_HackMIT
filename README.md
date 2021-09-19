@@ -35,7 +35,7 @@ Install ALert with npm
 
 Clone this repository with :
 ```bash
-git clone ""
+git clone "git@github.com:sash2501/Duelists_HackMIT.git"
 ```
 
 Install npm dependecies. Go to project root folder.
