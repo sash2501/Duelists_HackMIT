@@ -2,7 +2,7 @@
  
 ## Installation
 
-Install polychat with npm
+Install ALert with npm
 
 Clone this repository with :
 ```bash
@@ -26,3 +26,4 @@ Start MongoDB in separate terminal:
 
 - [Nodejs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
+- [Mongo]
